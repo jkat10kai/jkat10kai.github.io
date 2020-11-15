@@ -78,24 +78,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="74.347916"
-       y="159.68126"
-       id="text1517"><tspan
-         sodipodi:role="line"
-         id="tspan1515"
-         x="74.347916"
-         y="159.68126"
-         style="font-size:8.46666622px;stroke-width:0.26458332">⇓</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="73.025002"
-       y="164.70833"
+       y="163.65001"
        id="text1521"><tspan
          sodipodi:role="line"
          id="tspan1519"
          x="73.025002"
-         y="164.70833"
+         y="163.65001"
          style="stroke-width:0.26458332">H<tspan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan1523">2</tspan></tspan></text>
@@ -139,28 +128,15 @@
        style="fill:none;stroke:#000000;stroke-width:0.49999997;stroke-miterlimit:4;stroke-dasharray:1.9999999, 0.49999998;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text1568"
-       y="159.68126"
+       y="158.62294"
        x="74.347916"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:8.46666622px;stroke-width:0.26458332"
-         y="159.68126"
+         y="158.62294"
          x="74.347916"
          id="tspan1566"
          sodipodi:role="line">⇓</tspan></text>
-    <text
-       id="text1574"
-       y="164.70833"
-       x="73.025002"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.26458332"
-         y="164.70833"
-         x="73.025002"
-         id="tspan1572"
-         sodipodi:role="line">H<tspan
-   id="tspan1570"
-   style="font-size:64.99999762%;baseline-shift:sub">2</tspan></tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path1576"
