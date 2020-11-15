@@ -17,7 +17,50 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="fig41.svg">
   <defs
-     id="defs955" />
+     id="defs955">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1617"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1611"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#483e37;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1651"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +69,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-43.402595"
+     inkscape:cx="-205.40259"
      inkscape:cy="65.333314"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -57,17 +100,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-46.566666,-141.17501)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="46.869045"
-       y="150.34523"
-       id="text1511"><tspan
-         sodipodi:role="line"
-         id="tspan1509"
-         x="46.869045"
-         y="150.34523"
-         style="stroke-width:0.26458332">HO－H       H－OH</tspan></text>
     <ellipse
        style="fill:none;stroke:#000000;stroke-width:0.49999997;stroke-miterlimit:4;stroke-dasharray:1.9999999, 0.49999998;stroke-dashoffset:0;stroke-opacity:1"
        id="path1513"
@@ -77,7 +109,7 @@
        ry="6.3499999" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000100;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="73.025002"
        y="163.65001"
        id="text1521"><tspan
@@ -85,8 +117,8 @@
          id="tspan1519"
          x="73.025002"
          y="163.65001"
-         style="stroke-width:0.26458332">H<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
+         style="stroke-width:0.26458332;fill:#000100;fill-opacity:1;">H<tspan
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#000100;fill-opacity:1;"
    id="tspan1523">2</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -118,7 +150,7 @@
          y="150.34523"
          x="46.869045"
          id="tspan1560"
-         sodipodi:role="line">HO－H       H－OH</tspan></text>
+         sodipodi:role="line">HO－H </tspan></text>
     <ellipse
        ry="6.3499999"
        rx="15.345833"
@@ -126,17 +158,6 @@
        cx="76.199997"
        id="ellipse1564"
        style="fill:none;stroke:#000000;stroke-width:0.49999997;stroke-miterlimit:4;stroke-dasharray:1.9999999, 0.49999998;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       id="text1568"
-       y="158.62294"
-       x="74.347916"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-size:8.46666622px;stroke-width:0.26458332"
-         y="158.62294"
-         x="74.347916"
-         id="tspan1566"
-         sodipodi:role="line">⇓</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path1576"
@@ -157,5 +178,22 @@
        id="path1582"
        d="m 94.720859,153.19893 c 11.377111,0 11.641701,0 11.641701,0"
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="82.814583"
+       y="150.24445"
+       id="text1586"><tspan
+         sodipodi:role="line"
+         id="tspan1584"
+         x="82.814583"
+         y="150.24445"
+         style="stroke-width:0.26458332">H－OH</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 75.935416,148.39236 c -0.264583,6.35 -0.264583,9.26041 -0.264583,9.26041"
+       id="path1588"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
